@@ -60,7 +60,7 @@ DEVELOPER = {
 
 ```bash
 # Projeyi Klonlayın
-git clone https://github.com/yourusername/ztestk.git
+git clone https://github.com/zehrakolsuz/ztestk.git
 
 # Bağımlılıkları Yükleyin
 pip install -r requirements.txt
