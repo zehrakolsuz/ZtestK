@@ -131,7 +131,7 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 ## 🌟 Teşekkürler
 
-Bu projeyi geliştirmemde destek olan tüm hocalarıma ve arkadaşlarıma teşekkür ederim.
+Bu projeyi geliştirmemde destek olan Keyvan ARASTEH hocama ve arkadaşlarıma teşekkür ederim.
 
 <div align="center">
 
