@@ -203,8 +203,10 @@ cp .env.example .env
 # Python path'i ayarlayıp programı çalıştırın
 PYTHONPATH=src python3 -m qsec.main
 ```
+### 📷 Ekran Resmi
 
 <img width="751" alt="ZtestK Screenshot" src="https://github.com/user-attachments/assets/dd1e6192-20f2-4dae-85b7-83f94a692a2e" />
+
 
 ### 📋 Menü Seçenekleri
 1. 🔍 Pasif Keşif
