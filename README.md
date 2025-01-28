@@ -260,7 +260,7 @@ PYTHONPATH=src python3 -m qsec.main
 Bu proje MIT lisansı altında lisanslanmıştır.
 
 ## 🌟 Teşekkürler
-Bu projeyi geliştirmemde destek olan @keyvanarasteh [Keyvan ARASTEH] hocama ve arkadaşlarıma teşekkür ederim.
+Bu projeyi geliştirmemde destek olan [Keyvan ARASTEH](https://github.com/keyvanarasteh) hocama ve arkadaşlarıma teşekkür ederim.
 
 ---
 ### 🛡️ ZtestK - Güvenliğiniz İçin Buradayız 🛡️
