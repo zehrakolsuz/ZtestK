@@ -204,6 +204,8 @@ cp .env.example .env
 PYTHONPATH=src python3 -m qsec.main
 ```
 
+<img width="751" alt="ZtestK Screenshot" src="https://github.com/user-attachments/assets/dd1e6192-20f2-4dae-85b7-83f94a692a2e" />
+
 ### 📋 Menü Seçenekleri
 1. 🔍 Pasif Keşif
 2. ⚡ Aktif Keşif
