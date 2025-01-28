@@ -1,0 +1,27 @@
+2025-01-22 17:33:00,956 - qsec.reconnaissance.passive_recon - ERROR - Shodan API hatası: Access denied (403 Forbidden)
+2025-01-22 17:33:31,353 - qsec.reconnaissance.active_recon - ERROR - Port tarama hatası: '194.15.101.234'
+2025-01-22 18:05:40,768 - qsec.reconnaissance.passive_recon - ERROR - Shodan API hatası: Access denied (403 Forbidden)
+2025-01-22 18:06:11,139 - qsec.reconnaissance.active_recon - ERROR - Port tarama hatası: '194.15.101.234'
+2025-01-22 18:06:46,487 - qsec.reconnaissance.passive_recon - ERROR - Shodan API hatası: Access denied (403 Forbidden)
+2025-01-22 18:07:00,649 - qsec.reconnaissance.active_recon - ERROR - Port tarama hatası: '194.15.101.234'
+2025-01-22 18:16:17,364 - qsec.reconnaissance.passive_recon - ERROR - Shodan API hatası: Access denied (403 Forbidden)
+2025-01-22 18:16:44,535 - qsec.reconnaissance.active_recon - ERROR - Port tarama hatası: '194.15.101.234'
+2025-01-22 18:17:16,719 - qsec.reconnaissance.passive_recon - ERROR - Shodan API hatası: Access denied (403 Forbidden)
+2025-01-22 18:17:30,846 - qsec.reconnaissance.active_recon - ERROR - Port tarama hatası: '194.15.101.234'
+2025-01-22 18:18:42,700 - qsec.reconnaissance.passive_recon - ERROR - Shodan API hatası: Access denied (403 Forbidden)
+2025-01-22 18:19:05,953 - qsec.reconnaissance.active_recon - ERROR - Port tarama hatası: '194.15.101.234'
+2025-01-22 18:19:32,070 - qsec.reconnaissance.passive_recon - ERROR - Shodan API hatası: Access denied (403 Forbidden)
+2025-01-22 18:19:46,185 - qsec.reconnaissance.active_recon - ERROR - Port tarama hatası: '194.15.101.234'
+2025-01-22 18:37:44,384 - qsec.reconnaissance.active_recon - ERROR - Port tarama hatası: '194.15.101.234'
+2025-01-22 20:33:06,762 - qsec.reconnaissance.active_recon - ERROR - Port tarama hatası: '194.15.101.234'
+2025-01-22 21:05:12,891 - qsec.reconnaissance.active_recon - ERROR - IP çözümlemesi başarısız: isitnye.edu.tr
+2025-01-22 21:05:12,891 - __main__ - ERROR - Aktif keşif hatası: 'active_recon_data'
+2025-01-22 21:08:11,350 - qsec.reconnaissance.active_recon - ERROR - Port tarama hatası: '194.15.101.234'
+2025-01-22 21:09:07,635 - qsec.reconnaissance.active_recon - ERROR - Port tarama hatası: '194.15.101.234'
+2025-01-22 21:44:20,386 - qsec.reconnaissance.active_recon - ERROR - IP çözümlemesi başarısız: k1.tech
+2025-01-22 21:44:20,386 - __main__ - ERROR - Aktif keşif hatası: 'active_recon_data'
+2025-01-22 21:52:22,072 - qsec.reconnaissance.passive_recon - ERROR - Shodan API hatası: Access denied (403 Forbidden)
+2025-01-24 17:45:46,266 - qsec.reconnaissance.passive_recon - ERROR - Shodan API hatası: Access denied (403 Forbidden)
+2025-01-24 19:44:06,452 - qsec.reconnaissance.active_recon - INFO - Port taraması başarıyla tamamlandı
+2025-01-24 21:35:46,886 - qsec.reconnaissance.active_recon - INFO - Port taraması başarıyla tamamlandı
+2025-01-24 21:36:04,317 - qsec.reconnaissance.active_recon - INFO - Port taraması başarıyla tamamlandı

@@ -1,0 +1,74 @@
+# Temel Güvenlik Test Kütüphaneleri
+scapy==2.4.5                # Ağ paket manipülasyonu
+python-nmap==0.6.1          # Ağ tarama ve keşif
+requests==2.26.0            # HTTP istekleri
+beautifulsoup4==4.10.0      # Web sayfası parsing
+python-whois==0.8.0         # Domain whois bilgileri
+dnspython==2.2.1            # DNS sorguları
+shodan==1.27.0              # Açık port ve servis keşfi
+python-dotenv==0.19.2       # Ortam değişkenleri yönetimi
+
+# Web Güvenlik Test Araçları
+sqlmap==1.6.6               # SQL Injection test aracı
+selenium==4.1.0             # Web tarayıcı otomasyonu
+scrapy==2.6.1               # Web scraping ve crawling
+pyOpenSSL==22.0.0           # SSL/TLS işlemleri
+
+# Ağ Güvenliği Araçları
+netaddr==0.8.0              # IP adresi manipülasyonu
+ipaddress==1.0.23           # IP adresi işlemleri
+pysmb==1.2.8                # SMB protokol testleri
+paramiko==2.8.1             # SSH bağlantıları
+pyVmomi==7.0.3              # vSphere API testleri
+
+# OSINT ve Bilgi Toplama
+theHarvester==3.2.4         # E-posta ve alan adı toplama
+spyse-python==0.4.1         # OSINT bilgi toplama
+censys==2.1.1               # IP ve alan adı istihbaratı
+
+# Zafiyet Tarama ve Analiz
+w3af==2.0.0                 # Web uygulama güvenlik tarayıcısı
+zaproxy==0.1.0              # OWASP ZAP Proxy
+skipfish==2.10b              # Web güvenlik açığı tarayıcısı
+nikto==2.1.6                # Web sunucu tarayıcısı
+
+# Exploit Geliştirme
+metasploit-framework==6.1.25 # Exploit geliştirme ve test
+msfvenom==6.1.25            # Payload oluşturma
+pexpect==4.8.0              # Otomasyon süreçleri
+
+# Şifreleme ve Güvenlik Analizi
+cryptography==3.4.8         # Şifreleme işlemleri
+hashlib==1.0.2              # Hash fonksiyonları
+bcrypt==3.2.0               # Parola karma
+pyasn1==0.4.8               # ASN.1 protokol desteği
+
+# Veri İşleme ve Analiz
+pandas==1.3.5               # Veri manipülasyonu
+numpy==1.21.5               # Sayısal hesaplamalar
+scipy==1.7.3                # Bilimsel hesaplamalar
+matplotlib==3.5.1           # Veri görselleştirme
+
+# Log ve Raporlama
+loguru==0.5.5               # Gelişmiş logging
+pyyaml==6.0                 # YAML konfigürasyon
+jinja2==3.0.3               # Rapor şablonlama
+reportlab==3.6.9            # PDF rapor oluşturma
+
+# Test ve Geliştirme Araçları
+pytest==6.2.5               # Birim testler
+pytest-cov==3.0.0           # Test kapsamı
+black==22.3.0               # Kod formatlama
+flake8==4.0.1               # Kod kalite kontrolü
+mypy==0.950                 # Statik tip kontrolü
+
+# Ek Güvenlik Araçları
+fail2ban==0.11.2            # Güvenlik ihlali engelleme
+snort==2.9.16               # Ağ saldırı tespiti
+suricata==6.0.4             # Ağ güvenlik izleme
+
+# Otomasyon ve Scriptleme
+fabric==2.7.0               # Uzak sunucu yönetimi
+ansible==5.7.0              # Otomasyon ve yapılandırma
+pyinstrument==4.2.0         # Performans profiling
+
