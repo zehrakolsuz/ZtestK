@@ -1,7 +1,7 @@
 
 # 🛡️ ZtestK Penetrasyon Testi Aracı 🛡️
 
-<div align="center">
+<div>
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
