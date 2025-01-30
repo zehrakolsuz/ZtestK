@@ -209,6 +209,7 @@ PYTHONPATH=src python3 -m qsec.main
 
 ### 📷 Video
 [![Kullanım Örnek Video İçin Tıklayınız ]](https://github.com/zehrakolsuz/ZtestK/issues/1#issue-2820673551)
+(https://github.com/zehrakolsuz/ZtestK/assets/video.mp4)
 
 ### 📋 Menü Seçenekleri
 1. 🔍 Pasif Keşif
