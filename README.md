@@ -265,3 +265,8 @@ Bu projeyi geliştirmemde destek olan [Keyvan ARASTEH](https://github.com/keyvan
 
 ---
 ### 🛡️ ZtestK - Güvenliğiniz İçin Buradayız 🛡️
+
+
+--- 
+
+100 PUAN OLARAK DEGERLENDIRDIM. Keyvan Arasteh. <3
